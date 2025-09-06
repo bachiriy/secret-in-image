@@ -77,7 +77,7 @@ python3 main.py
 ## Folder Structure
 
 ```
-image-steganography/
+secret-in-image/
 ├── main.py                 # Interactive steganography script
 ├── encoded_images/         # Folder for storing encoded images
 ├── README.md               # Project documentation
